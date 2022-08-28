@@ -83,9 +83,14 @@ Download and install XAMPP [here][XAMPP-url].
     ```sh
     cd Ellipsis-Hackathon-2022
     ```
-3. Copy `.env.example` file to `.env` file
+3. Copy `.env.example` file to `.env` file <br/><br/>
+    In Linux/Mac:
     ```sh
     cp .env.example .env
+    ```
+    In Windows:
+    ```sh
+    copy .env.example .env
     ```
 4. Create DataBase by PhpMyadmin (provided by XAMPP)
     ```sh
