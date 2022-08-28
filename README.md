@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://raw.githubusercontent.com/neojw1505/Ellipsis-Hackathon-2022/master/Logos/hackathon-app-logo.PNG" alt="Logo" width="250" height="90" id="readme-top">
+  <a href="https://github.com/neojw1505/Ellipsis-Hackathon-2022">
+    <img src="https://raw.githubusercontent.com/neojw1505/Ellipsis-Hackathon-2022/master/Ellipsis-Hackathon-2022/Logos/hackathon-app-logo.PNG" alt="Logo" width="250" height="90" id="readme-top">
   </a>
 </div>
 
