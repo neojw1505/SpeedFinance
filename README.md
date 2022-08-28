@@ -219,4 +219,4 @@ Project Link: [https://github.com/your_username/ellipsis-hackathon-2022](https:/
 [Composer-url]: https://getcomposer.org/doc/00-intro.md#using-the-installer
 [PHP-url]: https://www.php.net/downloads
 [XAMPP-url]: https://www.apachefriends.org/
-[UserGuide-url]: UserGuide.md
+[UserGuide-url]: Ellipsis-Hackathon-2022\UserGuide.md
