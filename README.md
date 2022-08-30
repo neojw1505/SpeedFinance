@@ -33,10 +33,6 @@
 ## About The Project
 Customer Relationship Management (CRM) system that is built using the Laravel framework and deployed on the cloud with the use of Amazon Elastic Beanstalk. Purpose is to help Bank's relationship managers keep track of their leads, streamline the process of loan application and reduce the numbers of loan rejections.
 
-> **Access Our Elastic Beanstalk Server**
-<!-- Server URL -->
-http://ellipsishackathon2022-env-1.eba-j8nmmzpw.ap-southeast-1.elasticbeanstalk.com/login
-
 <!-- FEATURES -->
 ### Features
 * Leads Tracking
