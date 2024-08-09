@@ -187,7 +187,7 @@ _For more information, please refer to the [User Guide][UserGuide-url]_
 ## Contact
 Neo Jun Wei - neojw1505@gmail.com | junwei.neo.2022@scis.smu.edu.sg
 
-Project Link: [https://github.com/your_username/ellipsis-hackathon-2022](https://github.com/neojw1505/Ellipsis-Hackathon-2022.git)
+Project Link: [https://github.com/neojw1505/ellipsis-hackathon-2022](https://github.com/neojw1505/Ellipsis-Hackathon-2022.git)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
